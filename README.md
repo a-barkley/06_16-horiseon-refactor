@@ -1,6 +1,11 @@
-# Your Project Title
+# 06/16 Horiseon Homework
+
+# Deployed Link: https://pbarkley.github.io/06_16-horiseon-homework/ 
 
 ## Description 
+
+
+
 
 Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
 
@@ -45,11 +50,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+-Pat Barkley
 
 
 ## License
