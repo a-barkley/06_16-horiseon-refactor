@@ -4,9 +4,15 @@
 
 ## Description/Changes
 
+Line 74 - Changed h2 tag to h4 so that the headings are in sequential order
+Lines 16, 19, 22, 30, 37, 44 - Added alt tag to each image
+Line 29 - Fixed the Search Engine Optimization button by adding a class tag
 
 ## Screenshots of Webpage
 
+![Top of Page](./assets/images/horiseon1.png/)
+![Middle of Page](./assets/images/horiseon2.png/)
+![Bottom of Page](./assets/images/horiseon3.png/)
 
 ## Credits
 
@@ -14,11 +20,4 @@
 
 
 ## License
-
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
-
-
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
