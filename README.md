@@ -2,19 +2,19 @@
 
 ## Deployed Link: https://pbarkley.github.io/06_16-horiseon-homework/ 
 
-## Description/Changes
+## Description
 
-index.html:
+Webpage for Horiseon. Includes Horiseon header and navigation bar with links to the three
+articles on the page. The articles include information on Search Engine Optimization, 
+Online Reputation Management, and Social Media Marketing.
 
-Line 74 - Changed h2 tag to h4 so that the headings are in sequential order
-Lines 16, 19, 22, 30, 37, 44 - Added alt tag to each image
-Line 29 - Fixed the Search Engine Optimization button by adding a class tag
-Lines 52, 59, 66 - Changed class tags to id tags, since they only affect 1 element
-Lines 11, 28, 51, 74 - Changed outside div tags to reflect the content
+## Changes to Original Code
 
-style.css:
-
-Lines 89, 94, 99, 104, 109, 114, 119, 125, 131 - Changed .class tags to #id tags 
+- Changed h2 tag to h4 so that the headings are in sequential order
+- Added alt tag to each image
+- Fixed the Search Engine Optimization button by adding a class tag
+- Changed .class tags to #id tags, since they only affect 1 element
+- Changed outside div tags to reflect the content
 
 ## Screenshots of Webpage
 
@@ -24,8 +24,11 @@ Lines 89, 94, 99, 104, 109, 114, 119, 125, 131 - Changed .class tags to #id tags
 
 ## Credits
 
--Pat Barkley
+- Pat Barkley
 
 
-## License
+## Technologies Used
+
+- HTML
+- CSS
 
